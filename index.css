@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Comforter+Brush&display=swap');
+
+#navigation{
+    height: 50px;
+    width: 700px;
+    font-size: 35pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 28px 20px 20px 0px;
+    padding-left: 5%;
+    color: rgb(15, 56, 160);
+}
+
+
+.nan{
+    color: black;
+    margin-right: 10px;
+}
+#front:hover{
+    font-size: 40pt;
+    color: red;
+}
+
+body{
+    background: rgb(255, 255, 255);
+    background-size: 1980px 1080px;
+    font-family: "Anton";
+}
+
+
+.container{
+    padding-top: 1%;
+    height: 200;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.button{
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 15pt;
+}
+
+.nan{
+    color: rgb(15, 56, 160);
+    border-radius: 10px;
+}
+.nan:hover{
+    background-color: rgba(21, 186, 236, 0.5);
+}
+
+#nan{
+    height: 100px;
+    width: 50px;
+}
+
+img{
+    height: 15vh;
+    padding-left: 15%;
+    flex-shrink: 1;
+    flex-grow: 1;
+    flex-basis: 100px;
+}
