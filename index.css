@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Comforter+Brush&display=swap');
 
-#navigation{
+.navigation{
     height: 50px;
     width: 700px;
     font-size: 35pt;
