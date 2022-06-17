@@ -3,6 +3,7 @@
 }
 
 .box{
-    align-items: center;
-    justify-items: center;
+    align-item: center;
+    justify-item: center;
+    color: blue;
 }
