@@ -1,10 +1,10 @@
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .box{
-    align-item: center;
-    justify-item: center;
-    color: blue;
     font-size: 10vh;
+    color: royalblue;
 }
